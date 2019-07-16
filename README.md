@@ -1,5 +1,7 @@
 # A Complete Intro to React
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sepiropht/custom-reactssr-startet.svg)](https://greenkeeper.io/)
+
 My own starter react with ssr redux flow 
 
 ## Contributing
